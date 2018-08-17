@@ -19,5 +19,18 @@
 *.tar.gz
 *.rar
 
+#tools generated
+.idea
+.settings
+target
+.classpath
+.project
+bin
+*.iml
+*.ipr
+*.iws
+.metadata
+TODO.md
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
